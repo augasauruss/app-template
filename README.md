@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React
 
 [![codecov](https://codecov.io/gh/matasvosylius/app-template/branch/main/graph/badge.svg?token=IE6YkVRGsS)](https://codecov.io/gh/matasvosylius/app-template)
 
